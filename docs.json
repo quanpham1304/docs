@@ -71,18 +71,13 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Cộng đồng",
+          "href": "https://bettergrowth.org/community/",
+          "icon": "user-group"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://bettergrowth.org/blog/",
           "icon": "newspaper"
         }
       ]
