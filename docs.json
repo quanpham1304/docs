@@ -114,8 +114,9 @@
   },
   "footer": {
     "socials": {
-      "facebook": "https://www.facebook.com/bettergrowthofficial/",
-      "linkedin": "https://www.linkedin.com/company/bettergrowthofficial/"
+      "facebook": "https://www.facebook.com/bettergrowthofficial",
+      "linkedin": "https://www.linkedin.com/company/bettergrowthofficial",
+      "threads": "https://www.threads.com/bettergrowthofficial"
     }
   }
 }
